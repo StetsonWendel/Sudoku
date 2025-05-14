@@ -1,9 +1,9 @@
 # Sudoku
-Simple Sudoku Game in C++
+Simple Sudoku Game in C++.
 
-###Features
-Generate Sudoku board
-Add values to that sudoku board
+### Features
+Generate Sudoku board.
+Add values to that sudoku board.
 Validate those values.
 
 ### Addable Features
